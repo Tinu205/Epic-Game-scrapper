@@ -24,9 +24,7 @@ This Python script is a simple web scraper designed to fetch and extract informa
   - **Gaming Monitoring**: Create a simple dashboard or notification system to alert users about new free games.
   - **Data Analysis**: Extend the script to store data in a database or CSV for analyzing trends in game promotions.
   - **Integration**: Incorporate into a larger project, such as a web app or bot, to provide real-time updates.
-  - **Educational**: Demonstrates basic web scraping and API interaction, which could be part of a Computer Networks (CN) lab exercise, similar to the Java networking files in your current directory (e.g., HTTPClient.java, EchoServer.java). This script exemplifies client-side networking concepts like HTTP requests and response handling.
-- **Relation to Your CN Lab Environment**: Based on the directory structure (containing Java files like ArpClient.java, HTTPClient.java, EchoServer.java, etc.), this Python script could serve as a complementary example of network communication. It shows how to interact with web services, aligning with topics like client-server models, HTTP protocols, and data parsing—key elements in computer networking studies.
-
+ 
 ## Strengths
 - **Simplicity**: Easy to understand and modify, with clear, concise code.
 - **Efficiency**: Minimal dependencies and fast execution for small-scale data fetching.
@@ -58,8 +56,3 @@ This Python script is a simple web scraper designed to fetch and extract informa
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repository, make changes, and submit a pull request. Ensure to follow best practices for web scraping and respect API usage policies.
-
-## License
-This project is for educational purposes. Please check Epic Games' terms of service before using in production.
-
-For more information or modifications, refer to the script comments or extend as needed.
